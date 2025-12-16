@@ -39,6 +39,7 @@
 #include <linux/slab.h>
 #include <linux/string.h>
 #include <linux/tcp.h>
+#include <linux/timer.h>
 #include <linux/types.h>
 #include <linux/udp.h>
 #include <linux/vmalloc.h>
